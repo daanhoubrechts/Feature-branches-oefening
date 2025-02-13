@@ -1,4 +1,12 @@
 body {
   background-color: darkslategray;
   color: white;
+  font-family: "Kanit", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+button {
+  font-family: "Kanit", serif;
+  font-weight: 400;
+  font-style: normal;
 }
